@@ -12,6 +12,6 @@ AND 该视频为ytb搬运视频，也可去ytb上搜寻
 - js-confetti五彩纸屑库的使用
 - 用vite搭建react项目
 
-#如何运行本项目
+# 如何运行本项目
 npm i
 npm run dev
